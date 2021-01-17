@@ -1,2 +1,3 @@
 # Git-Course
-# Este é um curso de apredizagem de uso do git
+# Este é um curso de aprendizagem de uso do git
+# Saiba mais em [google.com](http://www.google.com)
